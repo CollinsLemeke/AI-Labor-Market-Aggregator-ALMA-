@@ -244,7 +244,6 @@ The "Explore More Tech Jobs" section organises 70+ external links into 13 catego
 | **🏛️ UK Enterprise & Finance** | Banks, consulting, and large enterprise career pages |
 | **🌍 Global Companies** | Google, Microsoft, Amazon, IBM, and other global tech |
 | **🚀 Startups & Scale-ups** | Y Combinator Jobs, early-stage specialist boards |
-| **🌈 Diversity & Inclusion** | Diversity-focused boards and inclusion-first platforms |
 | **📝 Contract & Freelance** | Upwork, Toptal, contractor-focused UK boards |
 
 Each category is rendered as a horizontal strip of colour-coded chips. Hovering a chip highlights it. Clicking opens the link in a new tab.
